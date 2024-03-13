@@ -16,7 +16,6 @@
                 <div class="subcaja3"></div>
                 <div class="subcaja4"></div> 
             </div>
-            
         </div>
         <div class="caja2">
             <div class="subcaja2d">
@@ -30,8 +29,7 @@
                 <div class="subcaja12"></div>
                 <div class="subcaja13"></div>
             </div>
-            
-        </div>
+      </div>
         <div class="caja3">
             <div class="subcaja3d">
                 <div class="subcaja14"></div>
@@ -41,8 +39,7 @@
                 <div class="subcaja18"></div>
                 <div class="subcaja19"></div>
             </div>
-            
         </div>
-    </div>
+        </div>
 </body>
 </html>
